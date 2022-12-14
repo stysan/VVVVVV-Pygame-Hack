@@ -1,3 +1,3 @@
 @echo off
-py3 vvvvvv.py
+pyw vvvvvv.py
 pause
